@@ -1,0 +1,6 @@
+python-telegram-bot==12.8
+pybooru 
+aiogram 
+uvloop 
+ujson 
+aiohttp[speedups]
