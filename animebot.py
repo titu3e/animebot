@@ -13,10 +13,10 @@ from random import randint
 
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = 'TOKEN_HERE'
+API_TOKEN = '5016713832:AAFanQaM9w7R6H0KvCW8LoxDTK5-yu1ui9E'
 #----------------------------------
 # Initialize bot and dispatcher
-bot = Bot(token=5016713832:AAFanQaM9w7R6H0KvCW8LoxDTK5-yu1ui9E)
+bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 #----------------------------------
 
